@@ -1,0 +1,5 @@
+{
+  "name": "Fundability Test Survey",
+  "description": "An interactive survey to assess a company's fundability based on key business metrics, financial performance, and founder experience. It calculates a score and prepares a detailed results email for internal review.",
+  "requestFramePermissions": []
+}
